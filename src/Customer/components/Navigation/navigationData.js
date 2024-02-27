@@ -70,7 +70,7 @@ export const navigation = {
                 {
                     name: 'New Arrivals',
                     href :'#',
-                    imageSrc: 'https://time.com/shopping/static/068f53b41b3df206b10db593f54f5c26/57e17/best-mens-clothing-brands.jpg',
+                    imageSrc: 'https://img.freepik.com/free-photo/young-handsome-man-choosing-clothes-shop_1303-19720.jpg',
                     imageAlt: 'Models sitting back to back, wearing basic tee in black and bone.',                    
                 },
                 {
