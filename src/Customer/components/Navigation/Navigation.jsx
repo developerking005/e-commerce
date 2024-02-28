@@ -284,7 +284,7 @@ export default function Navigation() {
               <div className="ml-4 flex lg:ml-0">
                 <span className="sr-only">Your Company</span>
                 <img
-                  src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAg00p6QHBhguwc2vyIcgVGzv3w0RAWDUjVXVebCYdmg&s"
                   alt=""
                   className="h-8 w-8 mr-2"
                 />
